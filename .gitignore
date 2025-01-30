@@ -1,3 +1,4 @@
 .env
 Auto_gen/.env
 Auto_gen/__pycache__
+Auto_gen/.cache
